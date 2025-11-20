@@ -1,0 +1,2266 @@
+{
+  "version": "1.0",
+  "last_update": "2025-11-20T16:52:21.734244",
+  "items": [
+    {
+      "name": "冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.558909",
+      "confidence": 0.9858477525356506
+    },
+    {
+      "name": "狙击步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.558909",
+      "confidence": 0.9886376857757568
+    },
+    {
+      "name": "霰弹枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.559476",
+      "confidence": 0.9812777803541509
+    },
+    {
+      "name": "射手步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.559476",
+      "confidence": 0.9883122444152832
+    },
+    {
+      "name": "轻机枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.559476",
+      "confidence": 0.9882051656354001
+    },
+    {
+      "name": "56552突击步枪",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.559476",
+      "confidence": 0.9881280461587103
+    },
+    {
+      "name": "63战斗步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.559987",
+      "confidence": 0.9744150065166044
+    },
+    {
+      "name": "08295-1突击步枪",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.560028",
+      "confidence": 0.6604179913833395
+    },
+    {
+      "name": "PTR-32突击步枪",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.560028",
+      "confidence": 0.9795758516679811
+    },
+    {
+      "name": "CAR-15突击步枪",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.560551",
+      "confidence": 0.8454855222276607
+    },
+    {
+      "name": "H70 精英头盔(全新 )",
+      "value": 150000,
+      "avg_value": 150000,
+      "rarity": "epic",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.561088",
+      "confidence": 0.8016387317648334
+    },
+    {
+      "name": "GN 重型夜视头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.561088",
+      "confidence": 0.5399103957290706
+    },
+    {
+      "name": "DICH-1战术头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.561088",
+      "confidence": 0.7043082544962284
+    },
+    {
+      "name": "GN 重型头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.562063",
+      "confidence": 0.9874210009219716
+    },
+    {
+      "name": "HOg 防暴头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.562063",
+      "confidence": 0.5865505738826389
+    },
+    {
+      "name": "GN 久战重型夜视头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.562063",
+      "confidence": 0.7567259338093731
+    },
+    {
+      "name": "Mask-1铁壁头盔",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.563062",
+      "confidence": 0.990093738572667
+    },
+    {
+      "name": "DICH 训练头盔",
+      "value": 30000,
+      "avg_value": 30000,
+      "rarity": "common",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.563062",
+      "confidence": 0.8172692198240821
+    },
+    {
+      "name": "GTI 战术头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.563062",
+      "confidence": 0.8873441776709861
+    },
+    {
+      "name": "MHS 战术头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.564062",
+      "confidence": 0.742067658966717
+    },
+    {
+      "name": "DB 战术头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.564062",
+      "confidence": 0.5655305193091641
+    },
+    {
+      "name": "MC2OI 防弹头盔",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.565061",
+      "confidence": 0.6300029282291288
+    },
+    {
+      "name": "DAS 防弹头盔",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.565061",
+      "confidence": 0.9403957689737823
+    },
+    {
+      "name": "H0? 战术头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.565061",
+      "confidence": 0.44606334636421935
+    },
+    {
+      "name": "防暴头盔 (全新 )",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.565061",
+      "confidence": 0.4981263188427897
+    },
+    {
+      "name": "12R",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.566063",
+      "confidence": 0.6248557860824104
+    },
+    {
+      "name": "高级护甲维修组合",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.566063",
+      "confidence": 0.9733531391904985
+    },
+    {
+      "name": "高级头盔维修组合",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.567064",
+      "confidence": 0.955499240232729
+    },
+    {
+      "name": "精密护甲维修包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.567064",
+      "confidence": 0.9821976167081785
+    },
+    {
+      "name": "精密头盔维修包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.568061",
+      "confidence": 0.9843365994621189
+    },
+    {
+      "name": "标准护甲维修包",
+      "value": 30000,
+      "avg_value": 30000,
+      "rarity": "common",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.568061",
+      "confidence": 0.8500370057251154
+    },
+    {
+      "name": "标准头盔维修包",
+      "value": 30000,
+      "avg_value": 30000,
+      "rarity": "common",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.568061",
+      "confidence": 0.8707046729771736
+    },
+    {
+      "name": "自制护甲维修包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.568061",
+      "confidence": 0.9798423394793392
+    },
+    {
+      "name": "制头盔维修包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.568061",
+      "confidence": 0.979141569314284
+    },
+    {
+      "name": "0E2战斗兴奋剂",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.568061",
+      "confidence": 0.8680634403815247
+    },
+    {
+      "name": "HO? 战术头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.568061",
+      "confidence": 0.5246510395096359
+    },
+    {
+      "name": "防暴头盔(全新 )",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.568061",
+      "confidence": 0.9591707185973751
+    },
+    {
+      "name": "MC 防弹头盔",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.569064",
+      "confidence": 0.9030074018817612
+    },
+    {
+      "name": "复古摩托头盔(全新 )",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.570063",
+      "confidence": 0.9654936387326375
+    },
+    {
+      "name": "DRO 战术头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.570063",
+      "confidence": 0.9568418488338295
+    },
+    {
+      "name": "HOI 战术头盔",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.570063",
+      "confidence": 0.7881506466742411
+    },
+    {
+      "name": "安保头盔",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.570063",
+      "confidence": 0.9934009694217573
+    },
+    {
+      "name": "重型突击背心",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.571062",
+      "confidence": 0.951780549153838
+    },
+    {
+      "name": "精英防弹背心",
+      "value": 150000,
+      "avg_value": 150000,
+      "rarity": "epic",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.571062",
+      "confidence": 0.9480166298801387
+    },
+    {
+      "name": "MK-2战术背心",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.571062",
+      "confidence": 0.9580738476823376
+    },
+    {
+      "name": "突击手防弹背心",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.571062",
+      "confidence": 0.9855073641342773
+    },
+    {
+      "name": "武士防弹背心",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.572063",
+      "confidence": 0.9411024328589637
+    },
+    {
+      "name": "射手战术背心",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.572063",
+      "confidence": 0.9797019542997497
+    },
+    {
+      "name": "制式防弹背心(全新)",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.572063",
+      "confidence": 0.8527106582320096
+    },
+    {
+      "name": "通用战术背心 (全新)",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.572063",
+      "confidence": 0.8113498379641949
+    },
+    {
+      "name": "制式防弹背心",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.573063",
+      "confidence": 0.9545415918533269
+    },
+    {
+      "name": "通用战术背心",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.574061",
+      "confidence": 0.97681535469532
+    },
+    {
+      "name": "HT 战术背心",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.574061",
+      "confidence": 0.6208992938741429
+    },
+    {
+      "name": "突击者战术背心",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.574061",
+      "confidence": 0.9317513215839739
+    },
+    {
+      "name": "强袭战术背心",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "armor",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.574061",
+      "confidence": 0.8950417735271055
+    },
+    {
+      "name": "601战术弹挂",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.575063",
+      "confidence": 0.9807045344760368
+    },
+    {
+      "name": "DSA战术胸挂",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.575063",
+      "confidence": 0.9294768227450738
+    },
+    {
+      "name": "H03战术胸挂",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.575063",
+      "confidence": 0.8649980176999573
+    },
+    {
+      "name": "通用战术胸挂",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.575063",
+      "confidence": 0.9781462327409889
+    },
+    {
+      "name": "轻型战术胸挂",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.576063",
+      "confidence": 0.9728260498071835
+    },
+    {
+      "name": "6T5野战背包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.576063",
+      "confidence": 0.9828462883778112
+    },
+    {
+      "name": "03战术登山包",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.576063",
+      "confidence": 0.9819176233270276
+    },
+    {
+      "name": "HLS-2重型背包",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.577064",
+      "confidence": 0.9601062328101752
+    },
+    {
+      "name": "生存战术背包",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.595062",
+      "confidence": 0.9526652132407138
+    },
+    {
+      "name": "02战术登山包",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.595062",
+      "confidence": 0.9869898151057945
+    },
+    {
+      "name": "野战徒步背包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.595062",
+      "confidence": 0.9895621356440191
+    },
+    {
+      "name": "MAP侦察背包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.596063",
+      "confidence": 0.9832409067531203
+    },
+    {
+      "name": "雨林猎手背包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.596063",
+      "confidence": 0.9847169857984626
+    },
+    {
+      "name": "GA野战背包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.596063",
+      "confidence": 0.9863628316465048
+    },
+    {
+      "name": "DASH战术背包",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.596063",
+      "confidence": 0.9613456723981815
+    },
+    {
+      "name": "3H战术背包",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.596063",
+      "confidence": 0.7154132511724872
+    },
+    {
+      "name": "突袭战术背包",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.596063",
+      "confidence": 0.9838011712644595
+    },
+    {
+      "name": "战术快拆背包",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.597061",
+      "confidence": 0.9873863157011974
+    },
+    {
+      "name": "露营背包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.597061",
+      "confidence": 0.9719168543815613
+    },
+    {
+      "name": "轻型户外背包",
+      "value": 30000,
+      "avg_value": 30000,
+      "rarity": "common",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.597061",
+      "confidence": 0.9795129601489535
+    },
+    {
+      "name": "06运动背包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.597061",
+      "confidence": 0.8282244564733972
+    },
+    {
+      "name": "旅行背包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.597061",
+      "confidence": 0.9891660213470459
+    },
+    {
+      "name": "运动背包",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.597061",
+      "confidence": 0.9711092114448547
+    },
+    {
+      "name": "[世界]突击手威龙在此:卖命差一个",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.598062",
+      "confidence": 0.8663291640830221
+    },
+    {
+      "name": "MIBA4突击步枪",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.598062",
+      "confidence": 0.7798998855497489
+    },
+    {
+      "name": "AKS-740突击步枪",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.598062",
+      "confidence": 0.9361650572853031
+    },
+    {
+      "name": "[世界]马鸿檠:有没有来跑刀的",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.598062",
+      "confidence": 0.6522375158241618
+    },
+    {
+      "name": "霰弹枪快速装填器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.598062",
+      "confidence": 0.7708881040385085
+    },
+    {
+      "name": "G系手枪33发弹匣",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.599063",
+      "confidence": 0.6346647504475273
+    },
+    {
+      "name": "6系手枪25发弹匣",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.599063",
+      "confidence": 0.6867048950381309
+    },
+    {
+      "name": "先进白热成像战斗瞄准镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.599063",
+      "confidence": 0.8918909293065546
+    },
+    {
+      "name": "八倍先进热成像狙击镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.599063",
+      "confidence": 0.9378846117782594
+    },
+    {
+      "name": "灵眼6/12弹道计算狙击镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.599063",
+      "confidence": 0.8493671278716799
+    },
+    {
+      "name": "灵眼3/7弹道计算狙击镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.600061",
+      "confidence": 0.9659896349350474
+    },
+    {
+      "name": "6/12神射手变倍狙击镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.600061",
+      "confidence": 0.957444769011771
+    },
+    {
+      "name": "3/7可调倍率狙击镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.600061",
+      "confidence": 0.9001893864264852
+    },
+    {
+      "name": "光学狙击8倍瞄准镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.600061",
+      "confidence": 0.9565509730835022
+    },
+    {
+      "name": "TCOIC",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.601064",
+      "confidence": 0.426522080752701
+    },
+    {
+      "name": "LPV0多倍率战斗瞄具",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.601064",
+      "confidence": 0.8795741916058603
+    },
+    {
+      "name": "侧置战斗红点瞄准镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.601064",
+      "confidence": 0.9651559408779422
+    },
+    {
+      "name": "M3狙击镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.601064",
+      "confidence": 0.9683557480374257
+    },
+    {
+      "name": "XCOG突击3.5倍瞄准镜",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.602063",
+      "confidence": 0.9753059204987216
+    },
+    {
+      "name": "PSO战斗2.5倍瞄准镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.602063",
+      "confidence": 0.6976113749165946
+    },
+    {
+      "name": "战斗红点瞄准镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.602063",
+      "confidence": 0.9802862782696338
+    },
+    {
+      "name": "多用途战术增高架",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.603061",
+      "confidence": 0.9642328406482584
+    },
+    {
+      "name": "PS0狙击8倍瞄准镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.603061",
+      "confidence": 0.5936338409376753
+    },
+    {
+      "name": "杠杆式步枪守望者狙击镜",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.603061",
+      "confidence": 0.9751356055332395
+    },
+    {
+      "name": "MP7冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.603061",
+      "confidence": 0.9427167244193583
+    },
+    {
+      "name": "Vector冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.604064",
+      "confidence": 0.9737272690371002
+    },
+    {
+      "name": "P90冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.604064",
+      "confidence": 0.7366169913292012
+    },
+    {
+      "name": "0C0171冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.604064",
+      "confidence": 0.802358538961514
+    },
+    {
+      "name": "SR-3M紧凑突击步枪",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.604064",
+      "confidence": 0.9684232055807922
+    },
+    {
+      "name": "MK4冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.605063",
+      "confidence": 0.9828732441672137
+    },
+    {
+      "name": "MP5冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.605063",
+      "confidence": 0.9778881308734152
+    },
+    {
+      "name": "SMG-45冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.605063",
+      "confidence": 0.8313726759332929
+    },
+    {
+      "name": "勇士冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.605063",
+      "confidence": 0.9891827816883507
+    },
+    {
+      "name": "野牛冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.606063",
+      "confidence": 0.9904947716843241
+    },
+    {
+      "name": "UZ1冲锋枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.606063",
+      "confidence": 0.4978787228007556
+    },
+    {
+      "name": "Vector长 剑超长枪管组合",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.606063",
+      "confidence": 0.6189076319185279
+    },
+    {
+      "name": "725双管霰弹枪鹰隼长枪管",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.607063",
+      "confidence": 0.7807117525709061
+    },
+    {
+      "name": "0J8201新式重锤战术枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.607063",
+      "confidence": 0.8597840928490099
+    },
+    {
+      "name": "0C0171新式红缨战术长枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.607063",
+      "confidence": 0.7292997168943302
+    },
+    {
+      "name": "MK4击剑手枪管",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.607063",
+      "confidence": 0.9898445144614486
+    },
+    {
+      "name": "杠杆式步枪拓荒者枪管",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.608063",
+      "confidence": 0.9626441747904005
+    },
+    {
+      "name": "杠杆式步枪猎鹿人枪管",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.608063",
+      "confidence": 0.9594910542945418
+    },
+    {
+      "name": "SR-3M铸钢战术枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.608063",
+      "confidence": 0.9263796907561833
+    },
+    {
+      "name": "725双管霰弹枪拦截者截短枪管",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.608063",
+      "confidence": 0.9861181536827298
+    },
+    {
+      "name": "新式蛟龙战术长枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.629066",
+      "confidence": 0.9887728483869782
+    },
+    {
+      "name": "MP5战术枪管组合",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.630065",
+      "confidence": 0.978894173963028
+    },
+    {
+      "name": "勇士战术枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.631065",
+      "confidence": 0.9876283869342589
+    },
+    {
+      "name": "野牛刀锋超长枪管",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.631065",
+      "confidence": 0.9848425039675316
+    },
+    {
+      "name": "08295战术枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.632066",
+      "confidence": 0.8529058964071994
+    },
+    {
+      "name": "UZ1突击标准枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.632066",
+      "confidence": 0.4493037786754204
+    },
+    {
+      "name": "M1911夜鹰战术枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.633065",
+      "confidence": 0.9897400070131618
+    },
+    {
+      "name": "93尺战术枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.633065",
+      "confidence": 0.8320093867329486
+    },
+    {
+      "name": "617战术重枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.633065",
+      "confidence": 0.9848593423993731
+    },
+    {
+      "name": "052926响尾蛇战术枪管",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.633065",
+      "confidence": 0.7999286333194089
+    },
+    {
+      "name": "共鸣狙击枪消音器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.634067",
+      "confidence": 0.9627925091215987
+    },
+    {
+      "name": "轻语战术消音器",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.634067",
+      "confidence": 0.9872301619223456
+    },
+    {
+      "name": "冲锋枪回声消音器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.634067",
+      "confidence": 0.9932725330350382
+    },
+    {
+      "name": "725双管霰弹枪牛仔消音器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.635065",
+      "confidence": 0.9844179196303976
+    },
+    {
+      "name": "霰弹枪涡流收束器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.635065",
+      "confidence": 0.8626723762531697
+    },
+    {
+      "name": "霰弹枪巨炮制退器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.635065",
+      "confidence": 0.9881000276847417
+    },
+    {
+      "name": "霰弹枪回声消音器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.635065",
+      "confidence": 0.9872172848374824
+    },
+    {
+      "name": "杠杆式步枪守望者钢制制退器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.636062",
+      "confidence": 0.9705397671213072
+    },
+    {
+      "name": "俄系冲锋枪精密消音器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.636062",
+      "confidence": 0.9865872187225755
+    },
+    {
+      "name": "霰弹枪精密消音器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.636062",
+      "confidence": 0.9891810136343602
+    },
+    {
+      "name": "霰弹枪囚笼补偿器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.637062",
+      "confidence": 0.9658992036321261
+    },
+    {
+      "name": "AWM狙击步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.637062",
+      "confidence": 0.9886956335353828
+    },
+    {
+      "name": "R93狙击步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.637062",
+      "confidence": 0.8478653480370918
+    },
+    {
+      "name": "5V-98狙击步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.638065",
+      "confidence": 0.9762331640075324
+    },
+    {
+      "name": "精英手枪制退器",
+      "value": 150000,
+      "avg_value": 150000,
+      "rarity": "epic",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.638065",
+      "confidence": 0.9851884673140824
+    },
+    {
+      "name": "净化手枪消音器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.638065",
+      "confidence": 0.9858245528337093
+    },
+    {
+      "name": "实用手枪消焰器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.638065",
+      "confidence": 0.9890471284010215
+    },
+    {
+      "name": "实用霰弹收束器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.639062",
+      "confidence": 0.9356044951902517
+    },
+    {
+      "name": "UR特种战术枪托",
+      "value": 150000,
+      "avg_value": 150000,
+      "rarity": "epic",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.639062",
+      "confidence": 0.9181454140638985
+    },
+    {
+      "name": "ATUS",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.639062",
+      "confidence": 0.5161075592041016
+    },
+    {
+      "name": "725双管霰弹枪守望者枪托",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.640062",
+      "confidence": 0.9769435694583133
+    },
+    {
+      "name": "725双管霰弹枪州长短枪托",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.640062",
+      "confidence": 0.9812235423961716
+    },
+    {
+      "name": "杠杆式步枪骨架枪托",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.640062",
+      "confidence": 0.9512109737139117
+    },
+    {
+      "name": "枢机先进战斗枪托",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.642063",
+      "confidence": 0.8823881332092179
+    },
+    {
+      "name": "08乙托腮板",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "material",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.660101",
+      "confidence": 0.48378493662021244
+    },
+    {
+      "name": "骨架狙击枪托",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.660101",
+      "confidence": 0.9850172664219987
+    },
+    {
+      "name": "杠杆式步枪战锤战术枪托",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.661069",
+      "confidence": 0.9603570862315886
+    },
+    {
+      "name": "杠杆式步枪运动枪托",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.661069",
+      "confidence": 0.9647366180728436
+    },
+    {
+      "name": "通用托腮板",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "material",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.661069",
+      "confidence": 0.9416816476412581
+    },
+    {
+      "name": "杠杆式步枪稳固狙击枪托",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.662069",
+      "confidence": 0.9556716931659486
+    },
+    {
+      "name": "杠杆式步枪无托后握把",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.662069",
+      "confidence": 0.9539864939364362
+    },
+    {
+      "name": "实用战术枪托",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.662069",
+      "confidence": 0.9829819969504365
+    },
+    {
+      "name": "相位战斗前握把",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.663068",
+      "confidence": 0.9764142625338981
+    },
+    {
+      "name": "X25U斜侧战斗握把",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.663068",
+      "confidence": 0.7560932276571655
+    },
+    {
+      "name": "战术三角握把",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.663630",
+      "confidence": 0.9858333261178198
+    },
+    {
+      "name": "战术垂直握把",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.663630",
+      "confidence": 0.972620071242741
+    },
+    {
+      "name": "ZFSG战术握把",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.663630",
+      "confidence": 0.9197026390336926
+    },
+    {
+      "name": "新式侍剑重型握把",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.663630",
+      "confidence": 0.9772964526938501
+    },
+    {
+      "name": "M1911夜鹰战术后握把",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.664624",
+      "confidence": 0.9244791902994218
+    },
+    {
+      "name": "725双管霰弹枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.664624",
+      "confidence": 0.9885975359810476
+    },
+    {
+      "name": "512K霰弹枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.664624",
+      "confidence": 0.6527608296795082
+    },
+    {
+      "name": "M1014霰弹枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.664624",
+      "confidence": 0.9742690991370524
+    },
+    {
+      "name": "M870霰弹枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.665626",
+      "confidence": 0.9876467424512376
+    },
+    {
+      "name": "左轮狙击后握",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.665626",
+      "confidence": 0.980005219609047
+    },
+    {
+      "name": "OLIGHT WARRIOR 35战术手电",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.665626",
+      "confidence": 0.8219083650119184
+    },
+    {
+      "name": "OLIGHT Odin 5战术手电",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.666627",
+      "confidence": 0.6794751163747559
+    },
+    {
+      "name": "耀斑战术手电",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.666627",
+      "confidence": 0.9896660886242256
+    },
+    {
+      "name": "杠杆式步枪蜂鸟杠杆",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.666627",
+      "confidence": 0.9516754659347364
+    },
+    {
+      "name": "杠杆式步枪犀牛杠杆",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.666627",
+      "confidence": 0.9386319742160192
+    },
+    {
+      "name": "下挂手枪灯",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.667626",
+      "confidence": 0.9774716433319695
+    },
+    {
+      "name": "M1911夜鹰战术扳机",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.667626",
+      "confidence": 0.9895516376811634
+    },
+    {
+      "name": "M1911夜鹰战术击锤",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.667626",
+      "confidence": 0.9920414550895409
+    },
+    {
+      "name": "杠杆式步枪子弹袋",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.667626",
+      "confidence": 0.9641084111988056
+    },
+    {
+      "name": "野蜂冲锋枪快拔套(沙)",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.668626",
+      "confidence": 0.985548934249269
+    },
+    {
+      "name": "野蜂冲锋枪快拔套(绿)",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.668626",
+      "confidence": 0.9873011776971101
+    },
+    {
+      "name": "野蜂冲锋枪快拔套(黑)",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.668626",
+      "confidence": 0.9801928465479218
+    },
+    {
+      "name": "M14射手步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.692243",
+      "confidence": 0.9869475081286402
+    },
+    {
+      "name": "SR-25射手步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.693242",
+      "confidence": 0.9780715931750866
+    },
+    {
+      "name": "PSG-1射手步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.693242",
+      "confidence": 0.9743121680772259
+    },
+    {
+      "name": "SV0狙击步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.693242",
+      "confidence": 0.649166483040918
+    },
+    {
+      "name": "VSS射手步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.694243",
+      "confidence": 0.9484807922078945
+    },
+    {
+      "name": "杠杆式步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.694243",
+      "confidence": 0.9661124241515283
+    },
+    {
+      "name": "Mini- 14射手步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.694243",
+      "confidence": 0.7113936776520204
+    },
+    {
+      "name": "SKS射手步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.694243",
+      "confidence": 0.9653644039597207
+    },
+    {
+      "name": "SR9射手步枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.694243",
+      "confidence": 0.5369531496225812
+    },
+    {
+      "name": "M250通用机枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.698244",
+      "confidence": 0.9826656940250358
+    },
+    {
+      "name": "M249轻机枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.698244",
+      "confidence": 0.9860411836901577
+    },
+    {
+      "name": "PKM通用机枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.699244",
+      "confidence": 0.9780103424786442
+    },
+    {
+      "name": "0J8201轻机枪",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "weapon",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.699244",
+      "confidence": 0.8736584047417646
+    },
+    {
+      "name": "刀片服务器",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.701243",
+      "confidence": 0.9776913963544757
+    },
+    {
+      "name": "工具材料",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.701243",
+      "confidence": 0.8154307007789612
+    },
+    {
+      "name": "CPU",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.701243",
+      "confidence": 0.9989548889192298
+    },
+    {
+      "name": "AS0S电脑主板",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "material",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.701243",
+      "confidence": 0.4143052212615996
+    },
+    {
+      "name": "太阳能板",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "material",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.702242",
+      "confidence": 0.9526636004447937
+    },
+    {
+      "name": "ECMO",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.703244",
+      "confidence": 0.9371922612190247
+    },
+    {
+      "name": "M1911",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.703244",
+      "confidence": 0.8537630619695388
+    },
+    {
+      "name": "93R",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.705243",
+      "confidence": 0.7288172751047923
+    },
+    {
+      "name": "外科手套",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "equipment",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.724245",
+      "confidence": 0.9918854236602783
+    },
+    {
+      "name": "手术剪刀",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.725243",
+      "confidence": 0.9854039549827576
+    },
+    {
+      "name": "强化碳纤维板",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "material",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.725243",
+      "confidence": 0.906810949523631
+    },
+    {
+      "name": "超声波切割刀",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.725243",
+      "confidence": 0.9892498716932112
+    },
+    {
+      "name": "枪械零件",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "material",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.725243",
+      "confidence": 0.9921944737434387
+    },
+    {
+      "name": "原木木板",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "material",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.725243",
+      "confidence": 0.9604009389877319
+    },
+    {
+      "name": "螺丝刀",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.726245",
+      "confidence": 0.9830259237626592
+    },
+    {
+      "name": "工具刀",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.726245",
+      "confidence": 0.9883408126558855
+    },
+    {
+      "name": "RNGEE",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.726245",
+      "confidence": 0.8522366690694885
+    },
+    {
+      "name": "三角洲特种部队:  刺刀特遣队",
+      "value": 150000,
+      "avg_value": 150000,
+      "rarity": "epic",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.727244",
+      "confidence": 0.8289759158825788
+    },
+    {
+      "name": "SWEET",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.727244",
+      "confidence": 0.867213109351465
+    },
+    {
+      "name": "TEA",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.727244",
+      "confidence": 0.6943617067847493
+    },
+    {
+      "name": "仪典匕首",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.731243",
+      "confidence": 0.988965630531311
+    },
+    {
+      "name": "海盗弯刀",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.731243",
+      "confidence": 0.984637439250946
+    },
+    {
+      "name": "初级子弹生产零件",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "material",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.732241",
+      "confidence": 0.8193567678930181
+    },
+    {
+      "name": "FIRS",
+      "value": 50000,
+      "avg_value": 50000,
+      "rarity": "uncommon",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.732241",
+      "confidence": 0.9597069025039673
+    },
+    {
+      "name": "战术快拆手术包",
+      "value": 80000,
+      "avg_value": 80000,
+      "rarity": "rare",
+      "category": "unknown",
+      "auto_imported": true,
+      "import_time": "2025-11-20T16:52:21.733243",
+      "confidence": 0.9843940230067598
+    }
+  ]
+}
